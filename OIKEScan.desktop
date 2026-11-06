@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OIKEScan
+Comment=IKE/IPsec VPN scanner & analyzer (aggressive mode, weak transforms, PSK risk)
+Exec=OIKEScan
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ONet;
+Keywords=OIKEScan;owlsec;security;ike;ipsec;vpn;ikev2;
